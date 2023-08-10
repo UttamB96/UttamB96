@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @UttamB96
-- 👀 I’m interested in Pyhton and Data Science
-- 🌱 I’m currently learning Algorithmic Trading and looking to collaborate on the same.
+- 👀 I am a Pyhton, Django and Linux Enthusiast. I am also interested in Network Security and Administration.
 - 📫 You can reach out to me on uttambangera@outlook.com
 
 <!---
