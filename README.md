@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UttamB96
-- 👀 I am a Pyhton, Django and Linux Enthusiast. I am also interested in Network Security and Administration.
+- 👀 I am a Python, Web Development and Linux Enthusiast. I am also interested in Network Security and Administration.
 - 📫 You can reach out to me on uttambangera@outlook.com
 
 <!---
