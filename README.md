@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UttamB96, an Egghead with an avid interest in Automation and Programming.
+- 👋 Hi, I’m Uttam! An Egghead with an avid interest in Automation and Programming.
 - 👀 I am a Python, Web Development and Linux Enthusiast. I am also interested in Network Security and Administration.
 - 📫 You can reach out to me on uttambangera@outlook.com
 
